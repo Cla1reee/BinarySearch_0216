@@ -96,5 +96,6 @@ void binarySearch()
 }
 
 int main() {
+    input();
     return 0;
 }
