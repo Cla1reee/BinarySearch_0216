@@ -24,6 +24,14 @@ void input() {
     }
 }
 
+void bubbleSortArray() {
+    int pass = 1;
+    do {
+        // Kerangka outer loop untuk pass
+        pass++;
+    } while (pass <= nPanjang - 1);
+}
+
 int main() {
     return 0;
 }
